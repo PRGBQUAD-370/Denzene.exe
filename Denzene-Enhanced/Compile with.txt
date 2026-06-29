@@ -1,0 +1,2 @@
+cl /O2 /MD /EHsc Denzene.cpp /link shell32.lib user32.lib gdi32.lib winmm.lib Msimg32.lib comdlg32.lib /SUBSYSTEM:CONSOLE
+cl /O2 /MD /EHsc Denzene.cpp /link shell32.lib user32.lib gdi32.lib winmm.lib Msimg32.lib comdlg32.lib /SUBSYSTEM:WINDOWS
